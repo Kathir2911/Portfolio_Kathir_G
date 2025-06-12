@@ -1,6 +1,8 @@
 
 # 💼 Kathir G - Personal Portfolio Website
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://kathir2911.github.io/Portfolio_Kathir_G/)
+
 Welcome to the **Personal Portfolio Website** of **Kathir G**, a passionate Junior Web Developer and aspiring full-stack engineer from Chennai, India. This site showcases Kathir’s skills, projects, certifications, and coding profiles.
 
 ## 🌐 Live Demo
