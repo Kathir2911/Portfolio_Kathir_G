@@ -35,6 +35,34 @@ body {
   padding: 5px 10px;
 }
 
+@media screen and (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .header nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+  }
+
+  .header nav a {
+    margin: 10px 0;
+    display: block;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 1px solid #555;
+  }
+
+  .header .logo {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+}
+
 /* Profile */
 .profile {
   max-width: 1200px;
